@@ -1,0 +1,1932 @@
+[
+    {
+        "cca2": "AF",
+        "cca3": "AFG",
+        "en": {
+            "common": "Afghanistan",
+            "official": "Islamic Republic of Afghanistan"
+        },
+        "th": "สาธารณรัฐอิสลามอัฟกานิสถาน",
+        "currency": "AFN"
+    },
+    {
+        "cca2": "AO",
+        "cca3": "AGO",
+        "en": {
+            "common": "Angola",
+            "official": "Republic of Angola"
+        },
+        "th": "สาธารณรัฐแองโกลา",
+        "currency": "AOA"
+    },
+    {
+        "cca2": "AL",
+        "cca3": "ALB",
+        "en": {
+            "common": "Albania",
+            "official": "Republic of Albania"
+        },
+        "th": "สาธารณรัฐแอลเบเนีย",
+        "currency": "ALL"
+    },
+    {
+        "cca2": "AD",
+        "cca3": "AND",
+        "en": {
+            "common": "Andorra",
+            "official": "Principality of Andorra"
+        },
+        "th": "ราชรัฐอันดอร์รา",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "AE",
+        "cca3": "ARE",
+        "en": {
+            "common": "United Arab Emirates",
+            "official": "United Arab Emirates"
+        },
+        "th": "สหรัฐอาหรับเอมิเรตส์",
+        "currency": "AED"
+    },
+    {
+        "cca2": "AR",
+        "cca3": "ARG",
+        "en": {
+            "common": "Argentina",
+            "official": "Argentine Republic"
+        },
+        "th": "สาธารณรัฐอาร์เจนตินา",
+        "currency": "ARS"
+    },
+    {
+        "cca2": "AM",
+        "cca3": "ARM",
+        "en": {
+            "common": "Armenia",
+            "official": "Republic of Armenia"
+        },
+        "th": "สาธารณรัฐอาร์มีเนีย",
+        "currency": "AMD"
+    },
+    {
+        "cca2": "AG",
+        "cca3": "ATG",
+        "en": {
+            "common": "Antigua and Barbuda",
+            "official": "Antigua and Barbuda"
+        },
+        "th": "แอนติกาและบาร์บูดา",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "AU",
+        "cca3": "AUS",
+        "en": {
+            "common": "Australia",
+            "official": "Commonwealth of Australia"
+        },
+        "th": "เครือรัฐออสเตรเลีย",
+        "currency": "AUD"
+    },
+    {
+        "cca2": "AT",
+        "cca3": "AUT",
+        "en": {
+            "common": "Austria",
+            "official": "Republic of Austria"
+        },
+        "th": "สาธารณรัฐออสเตรีย",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "AZ",
+        "cca3": "AZE",
+        "en": {
+            "common": "Azerbaijan",
+            "official": "Republic of Azerbaijan"
+        },
+        "th": "สาธารณรัฐอาเซอร์ไบจาน",
+        "currency": "AZN"
+    },
+    {
+        "cca2": "BI",
+        "cca3": "BDI",
+        "en": {
+            "common": "Burundi",
+            "official": "Republic of Burundi"
+        },
+        "th": "สาธารณรัฐบุรุนดี",
+        "currency": "BIF"
+    },
+    {
+        "cca2": "BE",
+        "cca3": "BEL",
+        "en": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium"
+        },
+        "th": "ราชอาณาจักรเบลเยียม",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "BJ",
+        "cca3": "BEN",
+        "en": {
+            "common": "Benin",
+            "official": "Republic of Benin"
+        },
+        "th": "สาธารณรัฐเบนิน",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "BF",
+        "cca3": "BFA",
+        "en": {
+            "common": "Burkina Faso",
+            "official": "Burkina Faso"
+        },
+        "th": "บูร์กินาฟาโซ",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "BD",
+        "cca3": "BGD",
+        "en": {
+            "common": "Bangladesh",
+            "official": "People's Republic of Bangladesh"
+        },
+        "th": "สาธารณรัฐประชาชนบังกลาเทศ",
+        "currency": "BDT"
+    },
+    {
+        "cca2": "BG",
+        "cca3": "BGR",
+        "en": {
+            "common": "Bulgaria",
+            "official": "Republic of Bulgaria"
+        },
+        "th": "สาธารณรัฐบัลแกเรีย",
+        "currency": "BGN"
+    },
+    {
+        "cca2": "BH",
+        "cca3": "BHR",
+        "en": {
+            "common": "Bahrain",
+            "official": "Kingdom of Bahrain"
+        },
+        "th": "ราชอาณาจักรบาห์เรน",
+        "currency": "BHD"
+    },
+    {
+        "cca2": "BS",
+        "cca3": "BHS",
+        "en": {
+            "common": "Bahamas",
+            "official": "Commonwealth of the Bahamas"
+        },
+        "th": "เครือรัฐบาฮามาส",
+        "currency": "BSD"
+    },
+    {
+        "cca2": "BA",
+        "cca3": "BIH",
+        "en": {
+            "common": "Bosnia and Herzegovina",
+            "official": "Bosnia and Herzegovina"
+        },
+        "th": "บอสเนียและเฮอร์เซโกวีนา",
+        "currency": "BAM"
+    },
+    {
+        "cca2": "BY",
+        "cca3": "BLR",
+        "en": {
+            "common": "Belarus",
+            "official": "Republic of Belarus"
+        },
+        "th": "สาธารณรัฐเบลารุส",
+        "currency": "BYR"
+    },
+    {
+        "cca2": "BZ",
+        "cca3": "BLZ",
+        "en": {
+            "common": "Belize",
+            "official": "Belize"
+        },
+        "th": "เบลีซ",
+        "currency": "BZD"
+    },
+    {
+        "cca2": "BO",
+        "cca3": "BOL",
+        "en": {
+            "common": "Bolivia",
+            "official": "Plurinational State of Bolivia"
+        },
+        "th": "รัฐพหุชนชาติแห่งโบลิเวีย",
+        "currency": "BOB"
+    },
+    {
+        "cca2": "BR",
+        "cca3": "BRA",
+        "en": {
+            "common": "Brazil",
+            "official": "Federative Republic of Brazil"
+        },
+        "th": "สหพันธ์สาธารณรัฐบราซิล",
+        "currency": "BRL"
+    },
+    {
+        "cca2": "BB",
+        "cca3": "BRB",
+        "en": {
+            "common": "Barbados",
+            "official": "Barbados"
+        },
+        "th": "บาร์เบโดส",
+        "currency": "BBD"
+    },
+    {
+        "cca2": "BT",
+        "cca3": "BTN",
+        "en": {
+            "common": "Bhutan",
+            "official": "Kingdom of Bhutan"
+        },
+        "th": "ราชอาณาจักรภูฏาน",
+        "currency": "BTN"
+    },
+    {
+        "cca2": "BW",
+        "cca3": "BWA",
+        "en": {
+            "common": "Botswana",
+            "official": "Republic of Botswana"
+        },
+        "th": "สาธารณรัฐบอตสวานา",
+        "currency": "BWP"
+    },
+    {
+        "cca2": "CF",
+        "cca3": "CAF",
+        "en": {
+            "common": "Central African Republic",
+            "official": "Central African Republic"
+        },
+        "th": "สาธารณรัฐแอฟริกากลาง",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "CA",
+        "cca3": "CAN",
+        "en": {
+            "common": "Canada",
+            "official": "Canada"
+        },
+        "th": "แคนาดา",
+        "currency": "CAD"
+    },
+    {
+        "cca2": "CH",
+        "cca3": "CHE",
+        "en": {
+            "common": "Switzerland",
+            "official": "Swiss Confederation"
+        },
+        "th": "สมาพันธรัฐสวิส",
+        "currency": "CHE"
+    },
+    {
+        "cca2": "CL",
+        "cca3": "CHL",
+        "en": {
+            "common": "Chile",
+            "official": "Republic of Chile"
+        },
+        "th": "สาธารณรัฐชิลี",
+        "currency": "CLF"
+    },
+    {
+        "cca2": "CN",
+        "cca3": "CHN",
+        "en": {
+            "common": "China",
+            "official": "People's Republic of China"
+        },
+        "th": "สาธารณรัฐประชาชนจีน",
+        "currency": "CNY"
+    },
+    {
+        "cca2": "CM",
+        "cca3": "CMR",
+        "en": {
+            "common": "Cameroon",
+            "official": "Republic of Cameroon"
+        },
+        "th": "สาธารณรัฐแคเมอรูน",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "CD",
+        "cca3": "COD",
+        "en": {
+            "common": "DR Congo",
+            "official": "Democratic Republic of the Congo"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยคองโก",
+        "currency": "CDF"
+    },
+    {
+        "cca2": "CG",
+        "cca3": "COG",
+        "en": {
+            "common": "Republic of the Congo",
+            "official": "Republic of the Congo"
+        },
+        "th": "สาธารณรัฐคองโก",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "CO",
+        "cca3": "COL",
+        "en": {
+            "common": "Colombia",
+            "official": "Republic of Colombia"
+        },
+        "th": "สาธารณรัฐโคลอมเบีย",
+        "currency": "COP"
+    },
+    {
+        "cca2": "KM",
+        "cca3": "COM",
+        "en": {
+            "common": "Comoros",
+            "official": "Union of the Comoros"
+        },
+        "th": "สหภาพคอโมโรส",
+        "currency": "KMF"
+    },
+    {
+        "cca2": "CV",
+        "cca3": "CPV",
+        "en": {
+            "common": "Cape Verde",
+            "official": "Republic of Cabo Verde"
+        },
+        "th": "สาธารณรัฐกาบูเวร์ดี",
+        "currency": "CVE"
+    },
+    {
+        "cca2": "CR",
+        "cca3": "CRI",
+        "en": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica"
+        },
+        "th": "สาธารณรัฐคอสตาริกา",
+        "currency": "CRC"
+    },
+    {
+        "cca2": "CU",
+        "cca3": "CUB",
+        "en": {
+            "common": "Cuba",
+            "official": "Republic of Cuba"
+        },
+        "th": "สาธารณรัฐคิวบา",
+        "currency": "CUC"
+    },
+    {
+        "cca2": "CY",
+        "cca3": "CYP",
+        "en": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus"
+        },
+        "th": "สาธารณรัฐไซปรัส",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "CZ",
+        "cca3": "CZE",
+        "en": {
+            "common": "Czech Republic",
+            "official": "Czech Republic"
+        },
+        "th": "สาธารณรัฐเช็ก",
+        "currency": "CZK"
+    },
+    {
+        "cca2": "DE",
+        "cca3": "DEU",
+        "en": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany"
+        },
+        "th": "สหพันธ์สาธารณรัฐเยอรมนี",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "DJ",
+        "cca3": "DJI",
+        "en": {
+            "common": "Djibouti",
+            "official": "Republic of Djibouti"
+        },
+        "th": "สาธารณรัฐจิบูตี",
+        "currency": "DJF"
+    },
+    {
+        "cca2": "DM",
+        "cca3": "DMA",
+        "en": {
+            "common": "Dominica",
+            "official": "Commonwealth of Dominica"
+        },
+        "th": "เครือรัฐดอมินีกา",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "DK",
+        "cca3": "DNK",
+        "en": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark"
+        },
+        "th": "ราชอาณาจักรเดนมาร์ก",
+        "currency": "DKK"
+    },
+    {
+        "cca2": "DO",
+        "cca3": "DOM",
+        "en": {
+            "common": "Dominican Republic",
+            "official": "Dominican Republic"
+        },
+        "th": "สาธารณรัฐโดมินิกัน",
+        "currency": "DOP"
+    },
+    {
+        "cca2": "DZ",
+        "cca3": "DZA",
+        "en": {
+            "common": "Algeria",
+            "official": "People's Democratic Republic of Algeria"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยประชาชนแอลจีเรีย",
+        "currency": "DZD"
+    },
+    {
+        "cca2": "EC",
+        "cca3": "ECU",
+        "en": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador"
+        },
+        "th": "สาธารณรัฐเอกวาดอร์",
+        "currency": "USD"
+    },
+    {
+        "cca2": "EG",
+        "cca3": "EGY",
+        "en": {
+            "common": "Egypt",
+            "official": "Arab Republic of Egypt"
+        },
+        "th": "สาธารณรัฐอาหรับอียิปต์",
+        "currency": "EGP"
+    },
+    {
+        "cca2": "ER",
+        "cca3": "ERI",
+        "en": {
+            "common": "Eritrea",
+            "official": "State of Eritrea"
+        },
+        "th": "รัฐเอริเทรีย",
+        "currency": "ERN"
+    },
+    {
+        "cca2": "ES",
+        "cca3": "ESP",
+        "en": {
+            "common": "Spain",
+            "official": "Kingdom of Spain"
+        },
+        "th": "ราชอาณาจักรสเปน",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "EE",
+        "cca3": "EST",
+        "en": {
+            "common": "Estonia",
+            "official": "Republic of Estonia"
+        },
+        "th": "สาธารณรัฐเอสโตเนีย",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "ET",
+        "cca3": "ETH",
+        "en": {
+            "common": "Ethiopia",
+            "official": "Federal Democratic Republic of Ethiopia"
+        },
+        "th": "สหพันธ์สาธารณรัฐประชาธิปไตยเอธิโอเปีย",
+        "currency": "ETB"
+    },
+    {
+        "cca2": "FI",
+        "cca3": "FIN",
+        "en": {
+            "common": "Finland",
+            "official": "Republic of Finland"
+        },
+        "th": "สาธารณรัฐฟินแลนด์",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "FJ",
+        "cca3": "FJI",
+        "en": {
+            "common": "Fiji",
+            "official": "Republic of Fiji"
+        },
+        "th": "สาธารณรัฐฟิจิ",
+        "currency": "FJD"
+    },
+    {
+        "cca2": "FR",
+        "cca3": "FRA",
+        "en": {
+            "common": "France",
+            "official": "French Republic"
+        },
+        "th": "สาธารณรัฐฝรั่งเศส",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "FM",
+        "cca3": "FSM",
+        "en": {
+            "common": "Micronesia",
+            "official": "Federated States of Micronesia"
+        },
+        "th": "สหพันธรัฐไมโครนีเซีย",
+        "currency": "USD"
+    },
+    {
+        "cca2": "GA",
+        "cca3": "GAB",
+        "en": {
+            "common": "Gabon",
+            "official": "Gabonese Republic"
+        },
+        "th": "สาธารณรัฐกาบอง",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "GB",
+        "cca3": "GBR",
+        "en": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        "th": "สหราชอาณาจักรบริเตนใหญ่ และไอร์แลนด์เหนือ",
+        "currency": "GBP"
+    },
+    {
+        "cca2": "GE",
+        "cca3": "GEO",
+        "en": {
+            "common": "Georgia",
+            "official": "Georgia"
+        },
+        "th": "จอร์เจีย",
+        "currency": "GEL"
+    },
+    {
+        "cca2": "GH",
+        "cca3": "GHA",
+        "en": {
+            "common": "Ghana",
+            "official": "Republic of Ghana"
+        },
+        "th": "สาธารณรัฐกานา",
+        "currency": "GHS"
+    },
+    {
+        "cca2": "GN",
+        "cca3": "GIN",
+        "en": {
+            "common": "Guinea",
+            "official": "Republic of Guinea"
+        },
+        "th": "สาธารณรัฐกินี",
+        "currency": "GNF"
+    },
+    {
+        "cca2": "GW",
+        "cca3": "GNB",
+        "en": {
+            "common": "Guinea-Bissau",
+            "official": "Republic of Guinea-Bissau"
+        },
+        "th": "สาธารณรัฐกินี-บิสเซา",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "GQ",
+        "cca3": "GNQ",
+        "en": {
+            "common": "Equatorial Guinea",
+            "official": "Republic of Equatorial Guinea"
+        },
+        "th": "สาธารณรัฐอิเควทอเรียลกินี",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "GR",
+        "cca3": "GRC",
+        "en": {
+            "common": "Greece",
+            "official": "Hellenic Republic"
+        },
+        "th": "สาธารณรัฐเฮลเลนิก",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "GD",
+        "cca3": "GRD",
+        "en": {
+            "common": "Grenada",
+            "official": "Grenada"
+        },
+        "th": "เกรเนดา",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "GT",
+        "cca3": "GTM",
+        "en": {
+            "common": "Guatemala",
+            "official": "Republic of Guatemala"
+        },
+        "th": "สาธารณรัฐกัวเตมาลา",
+        "currency": "GTQ"
+    },
+    {
+        "cca2": "GY",
+        "cca3": "GUY",
+        "en": {
+            "common": "Guyana",
+            "official": "Co-operative Republic of Guyana"
+        },
+        "th": "สาธารณรัฐสหกรณ์กายอานา",
+        "currency": "GYD"
+    },
+    {
+        "cca2": "HN",
+        "cca3": "HND",
+        "en": {
+            "common": "Honduras",
+            "official": "Republic of Honduras"
+        },
+        "th": "สาธารณรัฐฮอนดูรัส",
+        "currency": "HNL"
+    },
+    {
+        "cca2": "HR",
+        "cca3": "HRV",
+        "en": {
+            "common": "Croatia",
+            "official": "Republic of Croatia"
+        },
+        "th": "สาธารณรัฐโครเอเชีย",
+        "currency": "HRK"
+    },
+    {
+        "cca2": "HT",
+        "cca3": "HTI",
+        "en": {
+            "common": "Haiti",
+            "official": "Republic of Haiti"
+        },
+        "th": "สาธารณรัฐเฮติ",
+        "currency": "HTG"
+    },
+    {
+        "cca2": "HU",
+        "cca3": "HUN",
+        "en": {
+            "common": "Hungary",
+            "official": "Hungary"
+        },
+        "th": "ฮังการี",
+        "currency": "HUF"
+    },
+    {
+        "cca2": "ID",
+        "cca3": "IDN",
+        "en": {
+            "common": "Indonesia",
+            "official": "Republic of Indonesia"
+        },
+        "th": "สาธารณรัฐอินโดนีเซีย",
+        "currency": "IDR"
+    },
+    {
+        "cca2": "IN",
+        "cca3": "IND",
+        "en": {
+            "common": "India",
+            "official": "Republic of India"
+        },
+        "th": "สาธารณรัฐอินเดีย",
+        "currency": "INR"
+    },
+    {
+        "cca2": "IE",
+        "cca3": "IRL",
+        "en": {
+            "common": "Ireland",
+            "official": "Republic of Ireland"
+        },
+        "th": "ไอร์แลนด์",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "IR",
+        "cca3": "IRN",
+        "en": {
+            "common": "Iran",
+            "official": "Islamic Republic of Iran"
+        },
+        "th": "สาธารณรัฐอิสลามอิหร่าน",
+        "currency": "IRR"
+    },
+    {
+        "cca2": "IQ",
+        "cca3": "IRQ",
+        "en": {
+            "common": "Iraq",
+            "official": "Republic of Iraq"
+        },
+        "th": "สาธารณรัฐอิรัก",
+        "currency": "IQD"
+    },
+    {
+        "cca2": "IS",
+        "cca3": "ISL",
+        "en": {
+            "common": "Iceland",
+            "official": "Iceland"
+        },
+        "th": "สาธารณรัฐไอซ์แลนด์",
+        "currency": "ISK"
+    },
+    {
+        "cca2": "IL",
+        "cca3": "ISR",
+        "en": {
+            "common": "Israel",
+            "official": "State of Israel"
+        },
+        "th": "รัฐอิสราเอล",
+        "currency": "ILS"
+    },
+    {
+        "cca2": "IT",
+        "cca3": "ITA",
+        "en": {
+            "common": "Italy",
+            "official": "Italian Republic"
+        },
+        "th": "สาธารณรัฐอิตาลี",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "JM",
+        "cca3": "JAM",
+        "en": {
+            "common": "Jamaica",
+            "official": "Jamaica"
+        },
+        "th": "จาเมกา",
+        "currency": "JMD"
+    },
+    {
+        "cca2": "JO",
+        "cca3": "JOR",
+        "en": {
+            "common": "Jordan",
+            "official": "Hashemite Kingdom of Jordan"
+        },
+        "th": "ราชอาณาจักรฮัชไมต์จอร์แดน",
+        "currency": "JOD"
+    },
+    {
+        "cca2": "JP",
+        "cca3": "JPN",
+        "en": {
+            "common": "Japan",
+            "official": "Japan"
+        },
+        "th": "ญี่ปุ่น",
+        "currency": "JPY"
+    },
+    {
+        "cca2": "KZ",
+        "cca3": "KAZ",
+        "en": {
+            "common": "Kazakhstan",
+            "official": "Republic of Kazakhstan"
+        },
+        "th": "สาธารณรัฐคาซัคสถาน",
+        "currency": "KZT"
+    },
+    {
+        "cca2": "KE",
+        "cca3": "KEN",
+        "en": {
+            "common": "Kenya",
+            "official": "Republic of Kenya"
+        },
+        "th": "สาธารณรัฐเคนยา",
+        "currency": "KES"
+    },
+    {
+        "cca2": "KG",
+        "cca3": "KGZ",
+        "en": {
+            "common": "Kyrgyzstan",
+            "official": "Kyrgyz Republic"
+        },
+        "th": "สาธารณรัฐคีร์กีซ",
+        "currency": "KGS"
+    },
+    {
+        "cca2": "KH",
+        "cca3": "KHM",
+        "en": {
+            "common": "Cambodia",
+            "official": "Kingdom of Cambodia"
+        },
+        "th": "ราชอาณาจักรกัมพูชา",
+        "currency": "KHR"
+    },
+    {
+        "cca2": "KI",
+        "cca3": "KIR",
+        "en": {
+            "common": "Kiribati",
+            "official": "Independent and Sovereign Republic of Kiribati"
+        },
+        "th": "สาธารณรัฐคิริบาส",
+        "currency": "AUD"
+    },
+    {
+        "cca2": "KN",
+        "cca3": "KNA",
+        "en": {
+            "common": "Saint Kitts and Nevis",
+            "official": "Federation of Saint Christopher and Nevisa"
+        },
+        "th": "สหพันธรัฐเซนต์คิตส์และเนวิส",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "KR",
+        "cca3": "KOR",
+        "en": {
+            "common": "South Korea",
+            "official": "Republic of Korea"
+        },
+        "th": "สาธารณรัฐเกาหลี",
+        "currency": "KRW"
+    },
+    {
+        "cca2": "XK",
+        "cca3": "KOS",
+        "en": {
+            "common": "Kosovo",
+            "official": "Republic of Kosovo"
+        },
+        "th": "สาธารณรัฐคอซอวอ",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "KW",
+        "cca3": "KWT",
+        "en": {
+            "common": "Kuwait",
+            "official": "State of Kuwait"
+        },
+        "th": "รัฐคูเวต",
+        "currency": "KWD"
+    },
+    {
+        "cca2": "LA",
+        "cca3": "LAO",
+        "en": {
+            "common": "Laos",
+            "official": "Lao People's Democratic Republic"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยประชาชนลาว",
+        "currency": "LAK"
+    },
+    {
+        "cca2": "LB",
+        "cca3": "LBN",
+        "en": {
+            "common": "Lebanon",
+            "official": "Lebanese Republic"
+        },
+        "th": "สาธารณรัฐเลบานอน",
+        "currency": "LBP"
+    },
+    {
+        "cca2": "LR",
+        "cca3": "LBR",
+        "en": {
+            "common": "Liberia",
+            "official": "Republic of Liberia"
+        },
+        "th": "สาธารณรัฐไลบีเรีย",
+        "currency": "LRD"
+    },
+    {
+        "cca2": "LY",
+        "cca3": "LBY",
+        "en": {
+            "common": "Libya",
+            "official": "State of Libya"
+        },
+        "th": "รัฐลิเบีย",
+        "currency": "LYD"
+    },
+    {
+        "cca2": "LC",
+        "cca3": "LCA",
+        "en": {
+            "common": "Saint Lucia",
+            "official": "Saint Lucia"
+        },
+        "th": "เซนต์ลูเซีย",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "LI",
+        "cca3": "LIE",
+        "en": {
+            "common": "Liechtenstein",
+            "official": "Principality of Liechtenstein"
+        },
+        "th": "ราชรัฐลิกเตนสไตน์",
+        "currency": "CHF"
+    },
+    {
+        "cca2": "LK",
+        "cca3": "LKA",
+        "en": {
+            "common": "Sri Lanka",
+            "official": "Democratic Socialist Republic of Sri Lanka"
+        },
+        "th": "สาธารณรัฐสังคมนิยมประชาธิปไตยศรีลังกา",
+        "currency": "LKR"
+    },
+    {
+        "cca2": "LS",
+        "cca3": "LSO",
+        "en": {
+            "common": "Lesotho",
+            "official": "Kingdom of Lesotho"
+        },
+        "th": "ราชอาณาจักรเลโซโท",
+        "currency": "LSL"
+    },
+    {
+        "cca2": "LT",
+        "cca3": "LTU",
+        "en": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania"
+        },
+        "th": "สาธารณรัฐลิทัวเนีย",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "LU",
+        "cca3": "LUX",
+        "en": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg"
+        },
+        "th": "ราชรัฐลักเซมเบิร์ก",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "LV",
+        "cca3": "LVA",
+        "en": {
+            "common": "Latvia",
+            "official": "Republic of Latvia"
+        },
+        "th": "สาธารณรัฐลัตเวีย",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "MA",
+        "cca3": "MAR",
+        "en": {
+            "common": "Morocco",
+            "official": "Kingdom of Morocco"
+        },
+        "th": "ราชอาณาจักรโมร็อกโก",
+        "currency": "MAD"
+    },
+    {
+        "cca2": "MC",
+        "cca3": "MCO",
+        "en": {
+            "common": "Monaco",
+            "official": "Principality of Monaco"
+        },
+        "th": "ราชรัฐโมนาโก",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "MD",
+        "cca3": "MDA",
+        "en": {
+            "common": "Moldova",
+            "official": "Republic of Moldova"
+        },
+        "th": "สาธารณรัฐมอลโดวา",
+        "currency": "MDL"
+    },
+    {
+        "cca2": "MG",
+        "cca3": "MDG",
+        "en": {
+            "common": "Madagascar",
+            "official": "Republic of Madagascar"
+        },
+        "th": "สาธารณรัฐมาดากัสการ์",
+        "currency": "MGA"
+    },
+    {
+        "cca2": "MV",
+        "cca3": "MDV",
+        "en": {
+            "common": "Maldives",
+            "official": "Republic of the Maldives"
+        },
+        "th": "สาธารณรัฐมัลดีฟส์",
+        "currency": "MVR"
+    },
+    {
+        "cca2": "MX",
+        "cca3": "MEX",
+        "en": {
+            "common": "Mexico",
+            "official": "United Mexican States"
+        },
+        "th": "สหรัฐเม็กซิโก",
+        "currency": "MXN"
+    },
+    {
+        "cca2": "MH",
+        "cca3": "MHL",
+        "en": {
+            "common": "Marshall Islands",
+            "official": "Republic of the Marshall Islands"
+        },
+        "th": "สาธารณรัฐหมู่เกาะมาร์แชลล์",
+        "currency": "USD"
+    },
+    {
+        "cca2": "MK",
+        "cca3": "MKD",
+        "en": {
+            "common": "Macedonia",
+            "official": "Republic of Macedonia"
+        },
+        "th": "สาธารณรัฐมาซิโดเนีย",
+        "currency": "MKD"
+    },
+    {
+        "cca2": "ML",
+        "cca3": "MLI",
+        "en": {
+            "common": "Mali",
+            "official": "Republic of Mali"
+        },
+        "th": "สาธารณรัฐมาลี",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "MT",
+        "cca3": "MLT",
+        "en": {
+            "common": "Malta",
+            "official": "Republic of Malta"
+        },
+        "th": "สาธารณรัฐมอลตา",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "MM",
+        "cca3": "MMR",
+        "en": {
+            "common": "Myanmar",
+            "official": "Republic of the Union of Myanmar"
+        },
+        "th": "สาธารณรัฐแห่งสหภาพพม่า",
+        "currency": "MMK"
+    },
+    {
+        "cca2": "ME",
+        "cca3": "MNE",
+        "en": {
+            "common": "Montenegro",
+            "official": "Montenegro"
+        },
+        "th": "มอนเตเนโกร",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "MN",
+        "cca3": "MNG",
+        "en": {
+            "common": "Mongolia",
+            "official": "Mongolia"
+        },
+        "th": "มองโกเลีย",
+        "currency": "MNT"
+    },
+    {
+        "cca2": "MZ",
+        "cca3": "MOZ",
+        "en": {
+            "common": "Mozambique",
+            "official": "Republic of Mozambique"
+        },
+        "th": "สาธารณรัฐโมซัมบิก",
+        "currency": "MZN"
+    },
+    {
+        "cca2": "MR",
+        "cca3": "MRT",
+        "en": {
+            "common": "Mauritania",
+            "official": "Islamic Republic of Mauritania"
+        },
+        "th": "สาธารณรัฐอิสลามมอริเตเนีย",
+        "currency": "MRO"
+    },
+    {
+        "cca2": "MU",
+        "cca3": "MUS",
+        "en": {
+            "common": "Mauritius",
+            "official": "Republic of Mauritius"
+        },
+        "th": "สาธารณรัฐมอริเชียส",
+        "currency": "MUR"
+    },
+    {
+        "cca2": "MW",
+        "cca3": "MWI",
+        "en": {
+            "common": "Malawi",
+            "official": "Republic of Malawi"
+        },
+        "th": "สาธารณรัฐมาลาวี",
+        "currency": "MWK"
+    },
+    {
+        "cca2": "MY",
+        "cca3": "MYS",
+        "en": {
+            "common": "Malaysia",
+            "official": "Malaysia"
+        },
+        "th": "มาเลเซีย",
+        "currency": "MYR"
+    },
+    {
+        "cca2": "NA",
+        "cca3": "NAM",
+        "en": {
+            "common": "Namibia",
+            "official": "Republic of Namibia"
+        },
+        "th": "สาธารณรัฐนามิเบีย",
+        "currency": "NAD"
+    },
+    {
+        "cca2": "NE",
+        "cca3": "NER",
+        "en": {
+            "common": "Niger",
+            "official": "Republic of Niger"
+        },
+        "th": "สาธารณรัฐไนเจอร์",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "NG",
+        "cca3": "NGA",
+        "en": {
+            "common": "Nigeria",
+            "official": "Federal Republic of Nigeria"
+        },
+        "th": "สหพันธ์สาธารณรัฐไนจีเรีย",
+        "currency": "NGN"
+    },
+    {
+        "cca2": "NI",
+        "cca3": "NIC",
+        "en": {
+            "common": "Nicaragua",
+            "official": "Republic of Nicaragua"
+        },
+        "th": "สาธารณรัฐนิการากัว",
+        "currency": "NIO"
+    },
+    {
+        "cca2": "NL",
+        "cca3": "NLD",
+        "en": {
+            "common": "Netherlands",
+            "official": "Netherlands"
+        },
+        "th": "ราชอาณาจักรเนเธอร์แลนด์",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "NO",
+        "cca3": "NOR",
+        "en": {
+            "common": "Norway",
+            "official": "Kingdom of Norway"
+        },
+        "th": "ราชอาณาจักรนอร์เวย์",
+        "currency": "NOK"
+    },
+    {
+        "cca2": "NP",
+        "cca3": "NPL",
+        "en": {
+            "common": "Nepal",
+            "official": "Federal Democratic Republic of Nepal"
+        },
+        "th": "สหพันธ์สาธารณรัฐประชาธิปไตยเนปาล",
+        "currency": "NPR"
+    },
+    {
+        "cca2": "NR",
+        "cca3": "NRU",
+        "en": {
+            "common": "Nauru",
+            "official": "Republic of Nauru"
+        },
+        "th": "สาธารณรัฐนาอูรู",
+        "currency": "AUD"
+    },
+    {
+        "cca2": "NZ",
+        "cca3": "NZL",
+        "en": {
+            "common": "New Zealand",
+            "official": "New Zealand"
+        },
+        "th": "นิวซีแลนด์",
+        "currency": "NZD"
+    },
+    {
+        "cca2": "OM",
+        "cca3": "OMN",
+        "en": {
+            "common": "Oman",
+            "official": "Sultanate of Oman"
+        },
+        "th": "รัฐสุลต่านโอมาน",
+        "currency": "OMR"
+    },
+    {
+        "cca2": "PK",
+        "cca3": "PAK",
+        "en": {
+            "common": "Pakistan",
+            "official": "Islamic Republic of Pakistan"
+        },
+        "th": "สาธารณรัฐอิสลามปากีสถาน",
+        "currency": "PKR"
+    },
+    {
+        "cca2": "PA",
+        "cca3": "PAN",
+        "en": {
+            "common": "Panama",
+            "official": "Republic of Panama"
+        },
+        "th": "สาธารณรัฐปานามา",
+        "currency": "PAB"
+    },
+    {
+        "cca2": "PE",
+        "cca3": "PER",
+        "en": {
+            "common": "Peru",
+            "official": "Republic of Peru"
+        },
+        "th": "สาธารณรัฐเปรู",
+        "currency": "PEN"
+    },
+    {
+        "cca2": "PH",
+        "cca3": "PHL",
+        "en": {
+            "common": "Philippines",
+            "official": "Republic of the Philippines"
+        },
+        "th": "สาธารณรัฐฟิลิปปินส์",
+        "currency": "PHP"
+    },
+    {
+        "cca2": "PW",
+        "cca3": "PLW",
+        "en": {
+            "common": "Palau",
+            "official": "Republic of Palau"
+        },
+        "th": "สาธารณรัฐปาเลา",
+        "currency": "USD"
+    },
+    {
+        "cca2": "PG",
+        "cca3": "PNG",
+        "en": {
+            "common": "Papua New Guinea",
+            "official": "Independent State of Papua New Guinea"
+        },
+        "th": "รัฐเอกราชปาปัวนิวกินี",
+        "currency": "PGK"
+    },
+    {
+        "cca2": "PL",
+        "cca3": "POL",
+        "en": {
+            "common": "Poland",
+            "official": "Republic of Poland"
+        },
+        "th": "สาธารณรัฐโปแลนด์",
+        "currency": "PLN"
+    },
+    {
+        "cca2": "KP",
+        "cca3": "PRK",
+        "en": {
+            "common": "North Korea",
+            "official": "Democratic People's Republic of Korea"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยประชาชนเกาหลี",
+        "currency": "KPW"
+    },
+    {
+        "cca2": "PT",
+        "cca3": "PRT",
+        "en": {
+            "common": "Portugal",
+            "official": "Portuguese Republic"
+        },
+        "th": "สาธารณรัฐโปรตุเกส",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "PY",
+        "cca3": "PRY",
+        "en": {
+            "common": "Paraguay",
+            "official": "Republic of Paraguay"
+        },
+        "th": "สาธารณรัฐปารากวัย",
+        "currency": "PYG"
+    },
+    {
+        "cca2": "PS",
+        "cca3": "PSE",
+        "en": {
+            "common": "Palestine",
+            "official": "State of Palestine"
+        },
+        "th": "รัฐปาเลสไตน์",
+        "currency": "ILS"
+    },
+    {
+        "cca2": "QA",
+        "cca3": "QAT",
+        "en": {
+            "common": "Qatar",
+            "official": "State of Qatar"
+        },
+        "th": "รัฐกาตาร์",
+        "currency": "QAR"
+    },
+    {
+        "cca2": "RO",
+        "cca3": "ROU",
+        "en": {
+            "common": "Romania",
+            "official": "Romania"
+        },
+        "th": "โรมาเนีย",
+        "currency": "RON"
+    },
+    {
+        "cca2": "RU",
+        "cca3": "RUS",
+        "en": {
+            "common": "Russia",
+            "official": "Russian Federation"
+        },
+        "th": "สหพันธรัฐรัสเซีย",
+        "currency": "RUB"
+    },
+    {
+        "cca2": "RW",
+        "cca3": "RWA",
+        "en": {
+            "common": "Rwanda",
+            "official": "Republic of Rwanda"
+        },
+        "th": "สาธารณรัฐรวันดา",
+        "currency": "RWF"
+    },
+    {
+        "cca2": "SA",
+        "cca3": "SAU",
+        "en": {
+            "common": "Saudi Arabia",
+            "official": "Kingdom of Saudi Arabia"
+        },
+        "th": "ราชอาณาจักรซาอุดีอาระเบีย",
+        "currency": "SAR"
+    },
+    {
+        "cca2": "SD",
+        "cca3": "SDN",
+        "en": {
+            "common": "Sudan",
+            "official": "Republic of the Sudan"
+        },
+        "th": "สาธารณรัฐซูดาน",
+        "currency": "SDG"
+    },
+    {
+        "cca2": "SN",
+        "cca3": "SEN",
+        "en": {
+            "common": "Senegal",
+            "official": "Republic of Senegal"
+        },
+        "th": "สาธารณรัฐเซเนกัล",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "SG",
+        "cca3": "SGP",
+        "en": {
+            "common": "Singapore",
+            "official": "Republic of Singapore"
+        },
+        "th": "สาธารณรัฐสิงคโปร์",
+        "currency": "SGD"
+    },
+    {
+        "cca2": "SB",
+        "cca3": "SLB",
+        "en": {
+            "common": "Solomon Islands",
+            "official": "Solomon Islands"
+        },
+        "th": "หมู่เกาะโซโลมอน",
+        "currency": "SBD"
+    },
+    {
+        "cca2": "SL",
+        "cca3": "SLE",
+        "en": {
+            "common": "Sierra Leone",
+            "official": "Republic of Sierra Leone"
+        },
+        "th": "สาธารณรัฐเซียร์ราลีโอน",
+        "currency": "SLL"
+    },
+    {
+        "cca2": "SV",
+        "cca3": "SLV",
+        "en": {
+            "common": "El Salvador",
+            "official": "Republic of El Salvador"
+        },
+        "th": "สาธารณรัฐเอลซัลวาดอร์",
+        "currency": "SVC"
+    },
+    {
+        "cca2": "SM",
+        "cca3": "SMR",
+        "en": {
+            "common": "San Marino",
+            "official": "Most Serene Republic of San Marino"
+        },
+        "th": "สาธารณรัฐซานมารีโน",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "SO",
+        "cca3": "SOM",
+        "en": {
+            "common": "Somalia",
+            "official": "Federal Republic of Somalia"
+        },
+        "th": "สหพันธ์สาธารณรัฐโซมาเลีย",
+        "currency": "SOS"
+    },
+    {
+        "cca2": "RS",
+        "cca3": "SRB",
+        "en": {
+            "common": "Serbia",
+            "official": "Republic of Serbia"
+        },
+        "th": "สาธารณรัฐเซอร์เบีย",
+        "currency": "RSD"
+    },
+    {
+        "cca2": "SS",
+        "cca3": "SSD",
+        "en": {
+            "common": "South Sudan",
+            "official": "Republic of South Sudan"
+        },
+        "th": "สาธารณรัฐเซาท์ซูดาน",
+        "currency": "SSP"
+    },
+    {
+        "cca2": "ST",
+        "cca3": "STP",
+        "en": {
+            "common": "São Tomé and Príncipe",
+            "official": "Democratic Republic of São Tomé and Príncipe"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยเซาตูเมและปรินซิปี",
+        "currency": "STD"
+    },
+    {
+        "cca2": "SR",
+        "cca3": "SUR",
+        "en": {
+            "common": "Suriname",
+            "official": "Republic of Suriname"
+        },
+        "th": "สาธารณรัฐซูรินาม",
+        "currency": "SRD"
+    },
+    {
+        "cca2": "SK",
+        "cca3": "SVK",
+        "en": {
+            "common": "Slovakia",
+            "official": "Slovak Republic"
+        },
+        "th": "สาธารณรัฐสโลวัก",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "SI",
+        "cca3": "SVN",
+        "en": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia"
+        },
+        "th": "สาธารณรัฐสโลวีเนีย",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "SE",
+        "cca3": "SWE",
+        "en": {
+            "common": "Sweden",
+            "official": "Kingdom of Sweden"
+        },
+        "th": "ราชอาณาจักรสวีเดน",
+        "currency": "SEK"
+    },
+    {
+        "cca2": "SZ",
+        "cca3": "SWZ",
+        "en": {
+            "common": "Swaziland",
+            "official": "Kingdom of Swaziland"
+        },
+        "th": "ราชอาณาจักรสวาซิแลนด์",
+        "currency": "SZL"
+    },
+    {
+        "cca2": "SC",
+        "cca3": "SYC",
+        "en": {
+            "common": "Seychelles",
+            "official": "Republic of Seychelles"
+        },
+        "th": "สาธารณรัฐเซเชลส์",
+        "currency": "SCR"
+    },
+    {
+        "cca2": "SY",
+        "cca3": "SYR",
+        "en": {
+            "common": "Syria",
+            "official": "Syrian Arab Republic"
+        },
+        "th": "สาธารณรัฐอาหรับซีเรีย",
+        "currency": "SYP"
+    },
+    {
+        "cca2": "TD",
+        "cca3": "TCD",
+        "en": {
+            "common": "Chad",
+            "official": "Republic of Chad"
+        },
+        "th": "สาธารณรัฐชาด",
+        "currency": "XAF"
+    },
+    {
+        "cca2": "TG",
+        "cca3": "TGO",
+        "en": {
+            "common": "Togo",
+            "official": "Togolese Republic"
+        },
+        "th": "สาธารณรัฐโตโก",
+        "currency": "XOF"
+    },
+    {
+        "cca2": "TH",
+        "cca3": "THA",
+        "en": {
+            "common": "Thailand",
+            "official": "Kingdom of Thailand"
+        },
+        "th": "ราชอาณาจักรไทย",
+        "currency": "THB"
+    },
+    {
+        "cca2": "TJ",
+        "cca3": "TJK",
+        "en": {
+            "common": "Tajikistan",
+            "official": "Republic of Tajikistan"
+        },
+        "th": "สาธารณรัฐทาจิกิสถาน",
+        "currency": "TJS"
+    },
+    {
+        "cca2": "TM",
+        "cca3": "TKM",
+        "en": {
+            "common": "Turkmenistan",
+            "official": "Turkmenistan"
+        },
+        "th": "เติร์กเมนิสถาน",
+        "currency": "TMT"
+    },
+    {
+        "cca2": "TL",
+        "cca3": "TLS",
+        "en": {
+            "common": "Timor-Leste",
+            "official": "Democratic Republic of Timor-Leste"
+        },
+        "th": "สาธารณรัฐประชาธิปไตยติมอร์-เลสเต",
+        "currency": "USD"
+    },
+    {
+        "cca2": "TO",
+        "cca3": "TON",
+        "en": {
+            "common": "Tonga",
+            "official": "Kingdom of Tonga"
+        },
+        "th": "ราชอาณาจักรตองกา",
+        "currency": "TOP"
+    },
+    {
+        "cca2": "TT",
+        "cca3": "TTO",
+        "en": {
+            "common": "Trinidad and Tobago",
+            "official": "Republic of Trinidad and Tobago"
+        },
+        "th": "สาธารณรัฐตรินิแดดและโตเบโก",
+        "currency": "TTD"
+    },
+    {
+        "cca2": "TN",
+        "cca3": "TUN",
+        "en": {
+            "common": "Tunisia",
+            "official": "Tunisian Republic"
+        },
+        "th": "สาธารณรัฐตูนิเซีย",
+        "currency": "TND"
+    },
+    {
+        "cca2": "TR",
+        "cca3": "TUR",
+        "en": {
+            "common": "Turkey",
+            "official": "Republic of Turkey"
+        },
+        "th": "สาธารณรัฐตุรกี",
+        "currency": "TRY"
+    },
+    {
+        "cca2": "TV",
+        "cca3": "TUV",
+        "en": {
+            "common": "Tuvalu",
+            "official": "Tuvalu"
+        },
+        "th": "ตูวาลู",
+        "currency": "AUD"
+    },
+    {
+        "cca2": "TZ",
+        "cca3": "TZA",
+        "en": {
+            "common": "Tanzania",
+            "official": "United Republic of Tanzania"
+        },
+        "th": "สหสาธารณรัฐแทนซาเนีย",
+        "currency": "TZS"
+    },
+    {
+        "cca2": "UG",
+        "cca3": "UGA",
+        "en": {
+            "common": "Uganda",
+            "official": "Republic of Uganda"
+        },
+        "th": "สาธารณรัฐยูกันดา",
+        "currency": "UGX"
+    },
+    {
+        "cca2": "UA",
+        "cca3": "UKR",
+        "en": {
+            "common": "Ukraine",
+            "official": "Ukraine"
+        },
+        "th": "ยูเครน",
+        "currency": "UAH"
+    },
+    {
+        "cca2": "UY",
+        "cca3": "URY",
+        "en": {
+            "common": "Uruguay",
+            "official": "Oriental Republic of Uruguay"
+        },
+        "th": "สาธารณรัฐบูรพาอุรุกวัย",
+        "currency": "UYI"
+    },
+    {
+        "cca2": "US",
+        "cca3": "USA",
+        "en": {
+            "common": "United States",
+            "official": "United States of America"
+        },
+        "th": "สหรัฐอเมริกา",
+        "currency": "USD"
+    },
+    {
+        "cca2": "UZ",
+        "cca3": "UZB",
+        "en": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan"
+        },
+        "th": "สาธารณรัฐอุซเบกิสถาน",
+        "currency": "UZS"
+    },
+    {
+        "cca2": "VA",
+        "cca3": "VAT",
+        "en": {
+            "common": "Vatican City",
+            "official": "Vatican City State"
+        },
+        "th": "นครรัฐวาติกัน",
+        "currency": "EUR"
+    },
+    {
+        "cca2": "VC",
+        "cca3": "VCT",
+        "en": {
+            "common": "Saint Vincent and the Grenadines",
+            "official": "Saint Vincent and the Grenadines"
+        },
+        "th": "เซนต์วินเซนต์และเกรนาดีนส์",
+        "currency": "XCD"
+    },
+    {
+        "cca2": "VE",
+        "cca3": "VEN",
+        "en": {
+            "common": "Venezuela",
+            "official": "Bolivarian Republic of Venezuela"
+        },
+        "th": "สาธารณรัฐโบลีวาร์แห่งเวเนซุเอลา",
+        "currency": "VEF"
+    },
+    {
+        "cca2": "VN",
+        "cca3": "VNM",
+        "en": {
+            "common": "Vietnam",
+            "official": "Socialist Republic of Vietnam"
+        },
+        "th": "สาธารณรัฐสังคมนิยมเวียดนาม",
+        "currency": "VND"
+    },
+    {
+        "cca2": "VU",
+        "cca3": "VUT",
+        "en": {
+            "common": "Vanuatu",
+            "official": "Republic of Vanuatu"
+        },
+        "th": "สาธารณรัฐวานูอาตู",
+        "currency": "VUV"
+    },
+    {
+        "cca2": "WS",
+        "cca3": "WSM",
+        "en": {
+            "common": "Samoa",
+            "official": "Independent State of Samoa"
+        },
+        "th": "รัฐเอกราชซามัว",
+        "currency": "WST"
+    },
+    {
+        "cca2": "YE",
+        "cca3": "YEM",
+        "en": {
+            "common": "Yemen",
+            "official": "Republic of Yemen"
+        },
+        "th": "สาธารณรัฐเยเมน",
+        "currency": "YER"
+    },
+    {
+        "cca2": "ZA",
+        "cca3": "ZAF",
+        "en": {
+            "common": "South Africa",
+            "official": "Republic of South Africa"
+        },
+        "th": "สาธารณรัฐแอฟริกาใต้",
+        "currency": "ZAR"
+    },
+    {
+        "cca2": "ZM",
+        "cca3": "ZMB",
+        "en": {
+            "common": "Zambia",
+            "official": "Republic of Zambia"
+        },
+        "th": "สาธารณรัฐแซมเบีย",
+        "currency": "ZMW"
+    },
+    {
+        "cca2": "ZW",
+        "cca3": "ZWE",
+        "en": {
+            "common": "Zimbabwe",
+            "official": "Republic of Zimbabwe"
+        },
+        "th": "สาธารณรัฐซิมบับเว",
+        "currency": "ZWL"
+    }
+]
