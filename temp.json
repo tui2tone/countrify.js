@@ -2,12 +2,20 @@
     {
         "cca2": "AF",
         "cca3": "AFG",
-        "en": {
-            "common": "Afghanistan",
-            "official": "Islamic Republic of Afghanistan"
+        "name": {
+
         },
-        "th": "สาธารณรัฐอิสลามอัฟกานิสถาน",
-        "currency": "AFN"
+        "locale": {
+            "code": "af-ZA",
+            "short": "ZA",
+            "name": {}
+        },
+        "currency": {
+            "code": "AFN",
+            "name": {
+
+            }
+        }
     },
     {
         "cca2": "AO",

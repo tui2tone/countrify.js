@@ -1,0 +1,2900 @@
+{
+  "AF": {
+    "cca2": "AF",
+    "cca3": "AFG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": {
+        "code": "AFN",
+        "name": {}
+      },
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AO": {
+    "cca2": "AO",
+    "cca3": "AGO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AOA",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AL": {
+    "cca2": "AL",
+    "cca3": "ALB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ALL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AD": {
+    "cca2": "AD",
+    "cca3": "AND",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AE": {
+    "cca2": "AE",
+    "cca3": "ARE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AED",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AR": {
+    "cca2": "AR",
+    "cca3": "ARG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ARS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AM": {
+    "cca2": "AM",
+    "cca3": "ARM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AMD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AG": {
+    "cca2": "AG",
+    "cca3": "ATG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AU": {
+    "cca2": "AU",
+    "cca3": "AUS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AUD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AT": {
+    "cca2": "AT",
+    "cca3": "AUT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "AZ": {
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AZN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BI": {
+    "cca2": "BI",
+    "cca3": "BDI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BIF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BE": {
+    "cca2": "BE",
+    "cca3": "BEL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BJ": {
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BF": {
+    "cca2": "BF",
+    "cca3": "BFA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BD": {
+    "cca2": "BD",
+    "cca3": "BGD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BDT",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BG": {
+    "cca2": "BG",
+    "cca3": "BGR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BGN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BH": {
+    "cca2": "BH",
+    "cca3": "BHR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BHD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BS": {
+    "cca2": "BS",
+    "cca3": "BHS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BSD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BA": {
+    "cca2": "BA",
+    "cca3": "BIH",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BAM",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BY": {
+    "cca2": "BY",
+    "cca3": "BLR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BYR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BZ": {
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BZD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BO": {
+    "cca2": "BO",
+    "cca3": "BOL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BOB",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BR": {
+    "cca2": "BR",
+    "cca3": "BRA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BRL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BB": {
+    "cca2": "BB",
+    "cca3": "BRB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BBD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BT": {
+    "cca2": "BT",
+    "cca3": "BTN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BTN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "BW": {
+    "cca2": "BW",
+    "cca3": "BWA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "BWP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CF": {
+    "cca2": "CF",
+    "cca3": "CAF",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CA": {
+    "cca2": "CA",
+    "cca3": "CAN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CAD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CH": {
+    "cca2": "CH",
+    "cca3": "CHE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CHE",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CL": {
+    "cca2": "CL",
+    "cca3": "CHL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CLF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CN": {
+    "cca2": "CN",
+    "cca3": "CHN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CNY",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CM": {
+    "cca2": "CM",
+    "cca3": "CMR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CD": {
+    "cca2": "CD",
+    "cca3": "COD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CDF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CG": {
+    "cca2": "CG",
+    "cca3": "COG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CO": {
+    "cca2": "CO",
+    "cca3": "COL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "COP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KM": {
+    "cca2": "KM",
+    "cca3": "COM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KMF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CV": {
+    "cca2": "CV",
+    "cca3": "CPV",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CVE",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CR": {
+    "cca2": "CR",
+    "cca3": "CRI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CRC",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CU": {
+    "cca2": "CU",
+    "cca3": "CUB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CUC",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CY": {
+    "cca2": "CY",
+    "cca3": "CYP",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "CZ": {
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CZK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DE": {
+    "cca2": "DE",
+    "cca3": "DEU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DJ": {
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "DJF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DM": {
+    "cca2": "DM",
+    "cca3": "DMA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DK": {
+    "cca2": "DK",
+    "cca3": "DNK",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "DKK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DO": {
+    "cca2": "DO",
+    "cca3": "DOM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "DOP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "DZ": {
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "DZD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "EC": {
+    "cca2": "EC",
+    "cca3": "ECU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "EG": {
+    "cca2": "EG",
+    "cca3": "EGY",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EGP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ER": {
+    "cca2": "ER",
+    "cca3": "ERI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ERN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ES": {
+    "cca2": "ES",
+    "cca3": "ESP",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "EE": {
+    "cca2": "EE",
+    "cca3": "EST",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ET": {
+    "cca2": "ET",
+    "cca3": "ETH",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ETB",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "FI": {
+    "cca2": "FI",
+    "cca3": "FIN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "FJ": {
+    "cca2": "FJ",
+    "cca3": "FJI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "FJD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "FR": {
+    "cca2": "FR",
+    "cca3": "FRA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "FM": {
+    "cca2": "FM",
+    "cca3": "FSM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GA": {
+    "cca2": "GA",
+    "cca3": "GAB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GB": {
+    "cca2": "GB",
+    "cca3": "GBR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GBP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GE": {
+    "cca2": "GE",
+    "cca3": "GEO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GEL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GH": {
+    "cca2": "GH",
+    "cca3": "GHA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GHS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GN": {
+    "cca2": "GN",
+    "cca3": "GIN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GNF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GW": {
+    "cca2": "GW",
+    "cca3": "GNB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GQ": {
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GR": {
+    "cca2": "GR",
+    "cca3": "GRC",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GD": {
+    "cca2": "GD",
+    "cca3": "GRD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GT": {
+    "cca2": "GT",
+    "cca3": "GTM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GTQ",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "GY": {
+    "cca2": "GY",
+    "cca3": "GUY",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "GYD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "HN": {
+    "cca2": "HN",
+    "cca3": "HND",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "HNL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "HR": {
+    "cca2": "HR",
+    "cca3": "HRV",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "HRK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "HT": {
+    "cca2": "HT",
+    "cca3": "HTI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "HTG",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "HU": {
+    "cca2": "HU",
+    "cca3": "HUN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "HUF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ID": {
+    "cca2": "ID",
+    "cca3": "IDN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "IDR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IN": {
+    "cca2": "IN",
+    "cca3": "IND",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "INR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IE": {
+    "cca2": "IE",
+    "cca3": "IRL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IR": {
+    "cca2": "IR",
+    "cca3": "IRN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "IRR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IQ": {
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "IQD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IS": {
+    "cca2": "IS",
+    "cca3": "ISL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ISK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IL": {
+    "cca2": "IL",
+    "cca3": "ISR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ILS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "IT": {
+    "cca2": "IT",
+    "cca3": "ITA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "JM": {
+    "cca2": "JM",
+    "cca3": "JAM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "JMD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "JO": {
+    "cca2": "JO",
+    "cca3": "JOR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "JOD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "JP": {
+    "cca2": "JP",
+    "cca3": "JPN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "JPY",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KZ": {
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KZT",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KE": {
+    "cca2": "KE",
+    "cca3": "KEN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KES",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KG": {
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KGS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KH": {
+    "cca2": "KH",
+    "cca3": "KHM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KHR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KI": {
+    "cca2": "KI",
+    "cca3": "KIR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AUD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KN": {
+    "cca2": "KN",
+    "cca3": "KNA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KR": {
+    "cca2": "KR",
+    "cca3": "KOR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KRW",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "XK": {
+    "cca2": "XK",
+    "cca3": "KOS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KW": {
+    "cca2": "KW",
+    "cca3": "KWT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KWD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LA": {
+    "cca2": "LA",
+    "cca3": "LAO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LAK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LB": {
+    "cca2": "LB",
+    "cca3": "LBN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LBP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LR": {
+    "cca2": "LR",
+    "cca3": "LBR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LRD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LY": {
+    "cca2": "LY",
+    "cca3": "LBY",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LYD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LC": {
+    "cca2": "LC",
+    "cca3": "LCA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LI": {
+    "cca2": "LI",
+    "cca3": "LIE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "CHF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LK": {
+    "cca2": "LK",
+    "cca3": "LKA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LKR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LS": {
+    "cca2": "LS",
+    "cca3": "LSO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "LSL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LT": {
+    "cca2": "LT",
+    "cca3": "LTU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LU": {
+    "cca2": "LU",
+    "cca3": "LUX",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "LV": {
+    "cca2": "LV",
+    "cca3": "LVA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MA": {
+    "cca2": "MA",
+    "cca3": "MAR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MAD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MC": {
+    "cca2": "MC",
+    "cca3": "MCO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MD": {
+    "cca2": "MD",
+    "cca3": "MDA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MDL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MG": {
+    "cca2": "MG",
+    "cca3": "MDG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MGA",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MV": {
+    "cca2": "MV",
+    "cca3": "MDV",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MVR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MX": {
+    "cca2": "MX",
+    "cca3": "MEX",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MXN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MH": {
+    "cca2": "MH",
+    "cca3": "MHL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MK": {
+    "cca2": "MK",
+    "cca3": "MKD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MKD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ML": {
+    "cca2": "ML",
+    "cca3": "MLI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MT": {
+    "cca2": "MT",
+    "cca3": "MLT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MM": {
+    "cca2": "MM",
+    "cca3": "MMR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MMK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ME": {
+    "cca2": "ME",
+    "cca3": "MNE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MN": {
+    "cca2": "MN",
+    "cca3": "MNG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MNT",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MZ": {
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MZN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MR": {
+    "cca2": "MR",
+    "cca3": "MRT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MRO",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MU": {
+    "cca2": "MU",
+    "cca3": "MUS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MW": {
+    "cca2": "MW",
+    "cca3": "MWI",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MWK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "MY": {
+    "cca2": "MY",
+    "cca3": "MYS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "MYR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NA": {
+    "cca2": "NA",
+    "cca3": "NAM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NAD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NE": {
+    "cca2": "NE",
+    "cca3": "NER",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NG": {
+    "cca2": "NG",
+    "cca3": "NGA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NGN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NI": {
+    "cca2": "NI",
+    "cca3": "NIC",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NIO",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NL": {
+    "cca2": "NL",
+    "cca3": "NLD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NO": {
+    "cca2": "NO",
+    "cca3": "NOR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NOK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NP": {
+    "cca2": "NP",
+    "cca3": "NPL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NPR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NR": {
+    "cca2": "NR",
+    "cca3": "NRU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AUD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "NZ": {
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "NZD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "OM": {
+    "cca2": "OM",
+    "cca3": "OMN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "OMR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PK": {
+    "cca2": "PK",
+    "cca3": "PAK",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PKR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PA": {
+    "cca2": "PA",
+    "cca3": "PAN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PAB",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PE": {
+    "cca2": "PE",
+    "cca3": "PER",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PEN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PH": {
+    "cca2": "PH",
+    "cca3": "PHL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PHP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PW": {
+    "cca2": "PW",
+    "cca3": "PLW",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PG": {
+    "cca2": "PG",
+    "cca3": "PNG",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PGK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PL": {
+    "cca2": "PL",
+    "cca3": "POL",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PLN",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "KP": {
+    "cca2": "KP",
+    "cca3": "PRK",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "KPW",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PT": {
+    "cca2": "PT",
+    "cca3": "PRT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PY": {
+    "cca2": "PY",
+    "cca3": "PRY",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "PYG",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "PS": {
+    "cca2": "PS",
+    "cca3": "PSE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ILS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "QA": {
+    "cca2": "QA",
+    "cca3": "QAT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "QAR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "RO": {
+    "cca2": "RO",
+    "cca3": "ROU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "RON",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "RU": {
+    "cca2": "RU",
+    "cca3": "RUS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "RUB",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "RW": {
+    "cca2": "RW",
+    "cca3": "RWA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "RWF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SA": {
+    "cca2": "SA",
+    "cca3": "SAU",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SAR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SD": {
+    "cca2": "SD",
+    "cca3": "SDN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SDG",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SN": {
+    "cca2": "SN",
+    "cca3": "SEN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SG": {
+    "cca2": "SG",
+    "cca3": "SGP",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SGD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SB": {
+    "cca2": "SB",
+    "cca3": "SLB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SBD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SL": {
+    "cca2": "SL",
+    "cca3": "SLE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SLL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SV": {
+    "cca2": "SV",
+    "cca3": "SLV",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SVC",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SM": {
+    "cca2": "SM",
+    "cca3": "SMR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SO": {
+    "cca2": "SO",
+    "cca3": "SOM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SOS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "RS": {
+    "cca2": "RS",
+    "cca3": "SRB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "RSD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SS": {
+    "cca2": "SS",
+    "cca3": "SSD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SSP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ST": {
+    "cca2": "ST",
+    "cca3": "STP",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "STD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SR": {
+    "cca2": "SR",
+    "cca3": "SUR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SRD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SK": {
+    "cca2": "SK",
+    "cca3": "SVK",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SI": {
+    "cca2": "SI",
+    "cca3": "SVN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SE": {
+    "cca2": "SE",
+    "cca3": "SWE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SEK",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SZ": {
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SZL",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SC": {
+    "cca2": "SC",
+    "cca3": "SYC",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SCR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "SY": {
+    "cca2": "SY",
+    "cca3": "SYR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "SYP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TD": {
+    "cca2": "TD",
+    "cca3": "TCD",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XAF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TG": {
+    "cca2": "TG",
+    "cca3": "TGO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XOF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TH": {
+    "cca2": "TH",
+    "cca3": "THA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "THB",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TJ": {
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TJS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TM": {
+    "cca2": "TM",
+    "cca3": "TKM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TMT",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TL": {
+    "cca2": "TL",
+    "cca3": "TLS",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TO": {
+    "cca2": "TO",
+    "cca3": "TON",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TOP",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TT": {
+    "cca2": "TT",
+    "cca3": "TTO",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TTD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TN": {
+    "cca2": "TN",
+    "cca3": "TUN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TND",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TR": {
+    "cca2": "TR",
+    "cca3": "TUR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TRY",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TV": {
+    "cca2": "TV",
+    "cca3": "TUV",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "AUD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "TZ": {
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "TZS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "UG": {
+    "cca2": "UG",
+    "cca3": "UGA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "UGX",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "UA": {
+    "cca2": "UA",
+    "cca3": "UKR",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "UAH",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "UY": {
+    "cca2": "UY",
+    "cca3": "URY",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "UYI",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "US": {
+    "cca2": "US",
+    "cca3": "USA",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "USD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "UZ": {
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "UZS",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "VA": {
+    "cca2": "VA",
+    "cca3": "VAT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "EUR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "VC": {
+    "cca2": "VC",
+    "cca3": "VCT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "XCD",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "VE": {
+    "cca2": "VE",
+    "cca3": "VEN",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "VEF",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "VN": {
+    "cca2": "VN",
+    "cca3": "VNM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "VND",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "VU": {
+    "cca2": "VU",
+    "cca3": "VUT",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "VUV",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "WS": {
+    "cca2": "WS",
+    "cca3": "WSM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "WST",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "YE": {
+    "cca2": "YE",
+    "cca3": "YEM",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "YER",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ZA": {
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ZAR",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ZM": {
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ZMW",
+      "symbol": "",
+      "name": {}
+    }
+  },
+  "ZW": {
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "name": {},
+    "locale": {
+      "code": "",
+      "short": "",
+      "name": {}
+    },
+    "currency": {
+      "code": "ZWL",
+      "symbol": "",
+      "name": {}
+    }
+  }
+}
